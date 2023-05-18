@@ -1,5 +1,6 @@
 {
     "id": "102",
+    "userName" : "user1",
     "header": {
         "title": "Get cp4d Services",
         "description": "List all services from cp4d cluster"
